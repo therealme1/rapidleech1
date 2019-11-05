@@ -1,2 +1,1 @@
-web: heroku-php-apache2
-worker: npm start
+web: npm start && heroku-php-apache2
