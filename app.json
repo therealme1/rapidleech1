@@ -3,6 +3,9 @@
   "repository": "https://github.com/Th3-822/rapidleech",
   "logo": "https://small-sharp-tool.com/logo.svg",
   "success_url": "",
+  "scripts": {
+    "postdeploy": "npm install --save --save-exact typescript"
+  },
   "buildpacks": [
     {
       "url": "heroku/php"
