@@ -12,7 +12,7 @@
       "description": "The number of processes to run.",
       "value": "therapidleechbot"
     },
-    "BOT_ADMIN": {
+    "ADMIN_ID": {
     "description": "The Ids of Admins.",
     "value": "401643149,464848593"
     }
