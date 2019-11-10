@@ -26,6 +26,9 @@
      },
      {
       "url": "https://github.com/heroku/heroku-buildpack-apt"
-     }
+     },
+    {
+    "url": "https://github.com/HasibulKabir/heroku-buildpack-rarlab.git"
+    }
     ]
 }
